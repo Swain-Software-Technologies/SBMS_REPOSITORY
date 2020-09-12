@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: 04_Spring_Boot_Content_Negotiation
+Implementation-Version: 0.0.1-SNAPSHOT
+Build-Jdk-Spec: 1.8
+Created-By: Maven Integration for Eclipse
+
