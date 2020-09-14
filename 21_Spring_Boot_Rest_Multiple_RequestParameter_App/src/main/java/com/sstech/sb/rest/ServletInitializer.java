@@ -1,4 +1,4 @@
-package som.sstech.sb.rest;
+package com.sstech.sb.rest;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

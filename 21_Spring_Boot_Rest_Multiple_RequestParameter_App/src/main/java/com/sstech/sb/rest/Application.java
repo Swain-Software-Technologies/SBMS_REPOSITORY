@@ -1,4 +1,4 @@
-package som.sstech.sb.rest;
+package com.sstech.sb.rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
