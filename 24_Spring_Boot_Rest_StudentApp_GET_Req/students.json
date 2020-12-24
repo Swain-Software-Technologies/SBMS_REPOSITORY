@@ -1,0 +1,16 @@
+{
+    "students": [
+        {
+            "stdId": 101,
+            "stdName": "Raju",
+            "stdAddrs": "Khurda",
+            "stdResult": "PASS"
+        },
+        {
+            "stdId": 102,
+            "stdName": "Rani",
+            "stdAddrs": "BBSR",
+            "stdResult": "PASS"
+        }
+    ]
+}

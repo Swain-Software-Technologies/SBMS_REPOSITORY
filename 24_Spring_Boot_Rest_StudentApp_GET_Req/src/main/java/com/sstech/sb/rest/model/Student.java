@@ -4,11 +4,15 @@
  */
 package com.sstech.sb.rest.model;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonInclude.Include;
+
 /**
  * @author TRINATH, Sep 14, 2020
  *
  * @Description :
  */
+@JsonInclude(value = Include.NON_NULL)
 public class Student {
 
 	private Integer stdId;
