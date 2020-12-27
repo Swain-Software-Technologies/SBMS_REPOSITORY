@@ -1,0 +1,16 @@
+server:
+  port: 8771
+spring:
+  application:
+    name: STOCK-SERVICE-GATEWAY
+    
+zuul:
+  prefix: /api
+  routes:
+    price:
+      path: /bse/stock/price/**
+      service-id: STOCK-PRICE
+    calculation:
+      path: /bse/stock/calc/**
+      service-id: STOCK-CALCULATOR-SERVICE
+      
