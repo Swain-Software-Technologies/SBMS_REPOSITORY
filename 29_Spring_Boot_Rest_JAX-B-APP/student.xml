@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+    <stdAddress>Khurda</stdAddress>
+    <stdAvg>60.0</stdAvg>
+    <stdId>101</stdId>
+    <stdMarks>360.0</stdMarks>
+    <stdName>Trinath</stdName>
+</student>

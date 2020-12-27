@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student standard="5th">
+    <STD-ID>101</STD-ID>
+    <STD-NAME>Trinath</STD-NAME>
+    <STD-ADDRS>Khurda</STD-ADDRS>
+    <STD-AVG>60.0</STD-AVG>
+    <STD-MARK>360.0</STD-MARK>
+</student>
